@@ -13,6 +13,7 @@ motor
 numpy
 pillow
 psutil
+py-tgcalls==0.9.7
 pykeyboard
 pyrogram==2.0.106
 python-dotenv
@@ -23,14 +24,9 @@ requests
 tgcrypto
 unidecode
 yt-dlp
+git+https://github.com/yt-dlp/yt-dlp
 youtube-search
 youtube-search-python
 wget
 pornhub-api==0.3.0
 telegraph
-py-tgcalls==0.9.7
-lexica-api==1.5.7
-git+https://github.com/KurimuzonAkuma/pyrogram@dev
-git+https://github.com/yt-dlp/yt-dlp
-git+https://github.com/alexmercerind/youtube-search-python@main
-git+https://github.com/joetats/youtube_search@master
